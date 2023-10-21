@@ -1,6 +1,6 @@
 [![MasterHead](https://instagram.fadb3-1.fna.fbcdn.net/v/t51.2885-19/335962158_1388992988501731_5964110265414560241_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fadb3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WDTe9wz1L9MAX_v3yZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBh7WVjkICwfSIg6GVLdKuKSARAvwp6tJk_3uCjk-nOJw&oe=6538598C&_nc_sid=8b3546)
 <h1 align="center">Hi 👋, I'm Melih Ekizce</h1>
-<h3 align="center">Dokuz Eylül University Computer Engineering student, but for now :D</h3>
+<h3 align="center"> I am a Computer Engineer(CS) student at Dokuz Eylul University,In addition to my university courses, I am improving myself in data science and artificial intelligence.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekizcemelih" alt="ekizcemelih" /></a> </p>
 
