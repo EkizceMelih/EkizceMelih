@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekizcemelih&show_icons=true&locale=en" alt="ekizcemelih" /></p>
 
-![snake gif](https://github.com/EkizceMelih/EkizceMelih/blob/output/github-contribution-grid-snake.gif)
+
