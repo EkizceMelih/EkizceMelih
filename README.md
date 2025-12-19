@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Melih%20Ekizce&fontSize=70" />
 
   <h1>Hi 👋, I'm Melih Ekizce</h1>
-  <h3>Computer Engineering Student @ Dokuz Eylul University</h3>
-  <p>Improving myself in data science and artificial intelligence.</p>
+  <h3>AI Software Engineer @ SolarBiotech</h3>
+
 </div>
 
 ---
@@ -18,8 +18,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **ASP.NET**
-- 🌱 I’m currently learning **Data Processing, AI, DataBase Systems...**
+- 🔭 I’m currently working on **Python QML | AI & Machine Learning**
+- 🌱 I’m currently learning **Django Framework and LLM's**
 - 📫 How to reach me: **melihekizce@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
