@@ -41,6 +41,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekizcemelih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ekizcemelih&show_icons=true&locale=en&theme=vision-friendly-dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=EkizceMelih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EkizceMelih&show_icons=true&locale=en&theme=vision-friendly-dark" />
 </p>
