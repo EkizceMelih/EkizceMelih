@@ -44,6 +44,3 @@
   <img src="https://streak-stats.demolab.com?user=EkizceMelih&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=EkizceMelih&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
