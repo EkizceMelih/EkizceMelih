@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Melih%20Ekizce&fontSize=70" />
 
   <h1>Hi 👋, I'm Melih Ekizce</h1>
-  <h3>AI Software Engineer @ SolarBiotech</h3>
+  <h3>AI Software Engineer @ SolarBiotec</h3>
 
 </div>
 
