@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Python | Backend |AI & Machine Learning**
+- 🔭 I’m currently working on **Python | Backend | AI & Machine Learning**
 - 🌱 I’m currently learning **React | LLM's**
 - 📫 How to reach me: **melihekizce@gmail.com**
 
