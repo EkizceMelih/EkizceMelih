@@ -18,8 +18,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Python QML | AI & Machine Learning**
-- 🌱 I’m currently learning **Django Framework and LLM's**
+- 🔭 I’m currently working on **Python | Backend |AI & Machine Learning**
+- 🌱 I’m currently learning **React | LLM's**
 - 📫 How to reach me: **melihekizce@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
